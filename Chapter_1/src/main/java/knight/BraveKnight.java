@@ -1,3 +1,5 @@
+package knight;
+
 import quest.Quest;
 import quest.QuestException;
 
